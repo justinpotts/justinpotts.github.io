@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "I'm Moving! (From Wordpress to Jekyll)"
+date:   2016-03-23 13:05:55 -0500
+categories: development blogging
+---
+Currently, I'm in the process of converting all of my posts and media from
+Wordpress, over to this nifty little thing called Jekyll. Jekyll is essentially
+a framework for setting up a blog, using markdown to write posts, and simple
+HTML files to serve content. Even better, hosting is free (besides the custom
+domain), if you use GitHub Pages.
+
+For most people, having a Wordpress site is enough. Some may even use a
+Wordpress.org site, which I have experimented with in the past. Garblemasher
+ran off of Wordpress.com, and I was beginning to feel constricted in terms
+of themes, customization, and of course, the ads. I didn't feel like upgrading
+to Premium for all the extra features, and needed a change.
+
+In order to showcase some of my programming abilities, mainly design, I decided
+to transition to Jekyll to allow me more customization and opportunities to make
+my site more open and lightweight.
+
+I'm currently in the process of moving all of my posts, pictures, and other
+stuff to my new site, so it may be lacking material for a little bit. Check
+back soon for BIG updates to design, content, and some cool projects or demos
+I may add.
+
+Looking forward to seeing what will come of this new tool!
