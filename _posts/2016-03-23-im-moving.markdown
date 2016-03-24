@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "I'm Moving! (From Wordpress to Jekyll)"
-date:   2016-03-23 13:05:55 -0500
-categories: development blogging
+date:   2016-03-23
+categories: development
 ---
 Currently, I'm in the process of converting all of my posts and media from
 Wordpress, over to this nifty little thing called Jekyll. Jekyll is essentially
